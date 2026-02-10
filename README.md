@@ -16,26 +16,6 @@
 
 ---
 
-## 🛠️ Tech Stack  
-
-### 📊 Data Analysis & Visualization  
-Python • Pandas • Plotly • Matplotlib • Seaborn  
-Power BI • Excel avancé  
-Streamlit • Dash • Flask  
-
-### 🤖 Machine Learning / AI  
-Scikit-learn • XGBoost • CatBoost • SHAP  
-TensorFlow • PyTorch • Hugging Face  
-NLP (spaCy, NLTK, BERT)  
-Computer Vision (OpenCV, YOLO, Detectron2)
-
-### ⚙️ Data Engineering / MLOps  
-Spark • Kafka • Hadoop  
-PostgreSQL • MongoDB • ElasticSearch  
-Docker • Kubernetes • MLflow • CI/CD • FastAPI  
-
----
-
 ## 🔥 Featured Projects  
 
 ### 📈 Quality Prediction  
@@ -64,19 +44,3 @@ Construction de bras LeRobot So101 et entraînement par renforcement sim2real.
 **Data Analyst**  
 - Création de dashboards et KPIs (Power BI)  
 - Résolution d’un problème d’optimisation industrielle via CSP et algorithmes génétiques  
-
----
-
-## 🎯 What Drives Me  
-
-✔ Construire des solutions data utiles  
-✔ Avoir un impact mesurable sur la performance  
-✔ Relier technique avancée et enjeux business  
-✔ Continuer à apprendre et expérimenter  
-
----
-
-## ⚡ Fun Facts  
-
-🏄 Sports : surf, volley, course à pied, triathlon  
-🥁 Musicien — batterie & production musicale
