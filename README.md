@@ -1,16 +1,82 @@
-# Hi there 👋
+# 👋 Hi, I'm KASDmusic  
 
-<!--
-**KASDmusic/KASDmusic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Scientist passionné par la valorisation de la donnée pour répondre à des enjeux métiers concrets et éclairer la prise de décision stratégique.  
+💡 J’aime transformer des données complexes en solutions analytiques et applicatives performantes, alignées avec les objectifs business.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+
+- 🎓 Master Informatique Big Data & IA (Mention Bien)  
+- 💼 Data Scientist en alternance
+- 🧠 Spécialisé en Machine Learning, Deep Learning
+- 🌍 Langues : Anglais B2, Espagnol A2  
+
+👉 Profil technique avec une forte sensibilité produit et métier.
+
+---
+
+## 🛠️ Tech Stack  
+
+### 📊 Data Analysis & Visualization  
+Python • Pandas • Plotly • Matplotlib • Seaborn  
+Power BI • Excel avancé  
+Streamlit • Dash • Flask  
+
+### 🤖 Machine Learning / AI  
+Scikit-learn • XGBoost • CatBoost • SHAP  
+TensorFlow • PyTorch • Hugging Face  
+NLP (spaCy, NLTK, BERT)  
+Computer Vision (OpenCV, YOLO, Detectron2)
+
+### ⚙️ Data Engineering / MLOps  
+Spark • Kafka • Hadoop  
+PostgreSQL • MongoDB • ElasticSearch  
+Docker • Kubernetes • MLflow • CI/CD • FastAPI  
+
+---
+
+## 🔥 Featured Projects  
+
+### 📈 Quality Prediction  
+Prédiction de mesures qualité via des données capteurs et détection d’anomalies pour expliquer les déviances d’un processus industriel.
+
+### 👁️ Computer Vision  
+Classification de la qualité de pièces d’usinage et segmentation d’images satellites de glaciers.  
+https://www.kaggle.com/code/kasdmusic/computer-vision-quality-classification  
+
+### 🔎 GitHub Recommendation System  
+Système de recommandation de dépôts basé sur les préférences utilisateurs.  
+https://github.com/KASDmusic/github-repo-recommendation  
+
+### 🤖 Intelligent Robotic Arms (ongoing)  
+Construction de bras LeRobot So101 et entraînement par renforcement sim2real.
+
+---
+
+## 💼 Experience  
+
+**Data Scientist (Apprenticeship)**  
+- Analyse prédictive pour un processus d’extrusion plastique  
+- Investigation d’une dégradation soudaine de la qualité  
+- Méthodes : Machine Learning, plan d’expérience, 5M, 8D  
+
+**Data Analyst**  
+- Création de dashboards et KPIs (Power BI)  
+- Résolution d’un problème d’optimisation industrielle via CSP et algorithmes génétiques  
+
+---
+
+## 🎯 What Drives Me  
+
+✔ Construire des solutions data utiles  
+✔ Avoir un impact mesurable sur la performance  
+✔ Relier technique avancée et enjeux business  
+✔ Continuer à apprendre et expérimenter  
+
+---
+
+## ⚡ Fun Facts  
+
+🏄 Sports : surf, volley, course à pied, triathlon  
+🥁 Musicien — batterie & production musicale
