@@ -29,3 +29,4 @@ https://github.com/KASDmusic/github-repo-recommendation
 
 ### 🤖 Intelligent Robotic Arms (ongoing)  
 Construction de bras LeRobot So101 et entraînement par renforcement sim2real.
+https://github.com/KASDmusic/so101-robot-reinforcement-learning
