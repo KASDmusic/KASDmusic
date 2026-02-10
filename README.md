@@ -3,6 +3,7 @@
 🎯 Data Scientist passionné par la valorisation de la donnée pour répondre à des enjeux métiers concrets et éclairer la prise de décision stratégique.  
 💡 J’aime transformer des données complexes en solutions analytiques et applicatives performantes, alignées avec les objectifs business.
 👉 Profil technique avec une forte sensibilité produit et métier.
+
 ---
 
 ## 🚀 About Me  
