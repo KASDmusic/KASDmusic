@@ -2,17 +2,14 @@
 
 🎯 Data Scientist passionné par la valorisation de la donnée pour répondre à des enjeux métiers concrets et éclairer la prise de décision stratégique.  
 💡 J’aime transformer des données complexes en solutions analytiques et applicatives performantes, alignées avec les objectifs business.
-
+👉 Profil technique avec une forte sensibilité produit et métier.
 ---
 
 ## 🚀 About Me  
 
 - 🎓 Master Informatique Big Data & IA (Mention Bien)  
-- 💼 Data Scientist en alternance
 - 🧠 Spécialisé en Machine Learning, Deep Learning
 - 🌍 Langues : Anglais B2, Espagnol A2  
-
-👉 Profil technique avec une forte sensibilité produit et métier.
 
 ---
 
@@ -31,16 +28,3 @@ https://github.com/KASDmusic/github-repo-recommendation
 
 ### 🤖 Intelligent Robotic Arms (ongoing)  
 Construction de bras LeRobot So101 et entraînement par renforcement sim2real.
-
----
-
-## 💼 Experience  
-
-**Data Scientist (Apprenticeship)**  
-- Analyse prédictive pour un processus d’extrusion plastique  
-- Investigation d’une dégradation soudaine de la qualité  
-- Méthodes : Machine Learning, plan d’expérience, 5M, 8D  
-
-**Data Analyst**  
-- Création de dashboards et KPIs (Power BI)  
-- Résolution d’un problème d’optimisation industrielle via CSP et algorithmes génétiques  
