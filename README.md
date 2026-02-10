@@ -31,4 +31,4 @@ https://github.com/KASDmusic/github-repo-recommendation
 
 ### 🤖 Intelligent Robotic Arms (ongoing)  
 Building LeRobot So101 robotic arms and training them using sim-to-real reinforcement learning.  
-https://github.com/KASDmusic/so101-robot-reinforcement-learning  
+https://github.com/KASDmusic/so101-robotic-learning   
